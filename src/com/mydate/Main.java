@@ -1,6 +1,7 @@
 /**
  *  Java program to demonstrate Date class.
  */
+
 package com.mydate;
 
 import java.util.Date;
